@@ -1,7 +1,7 @@
 {
-    "name": "XrayHeroku",
-    "description": "xray websocket proxy on heroku",
-    "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
+    "name": "X",
+    "description": "j",
+    "keywords": ["aar"],
     "env": {
         "AA": {
             "description": "Advanced users only need to modify the following AUUID and click the Deploy app button at the end of the page to start deployment",
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/AGWRI/XrayHeroku",
-    "repository": "https://github.com/AGWRI/XrayHeroku",
+    "website": "https://github.com/fhiwuw894/hi345",
+    "repository": "https://github.com/fhiwuw894/hi345",
     "stack": "container"
 }
