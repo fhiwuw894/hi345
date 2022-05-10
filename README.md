@@ -14,7 +14,7 @@ This image will not be blocked because it takes up a lot of resources. After reg
 
 ### Server
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/thawhakyi/HerokuXray) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/fhiwuw894/hi345) 
 
 Click on the purple above `Deploy to Heroku` jump to the heroku app creation page, fill in the name of the app, select the node (European node is recommended, and the US node will automatically delete YouTube comments and likes!), modify some parameters and UUIDs as needed, and click below deployStart to create the deployment application.
 If an error occurs, you can try a few more times. After the deployment is completed, the bottom of the page will be displayed `Your app was successfully deployed`
@@ -66,7 +66,7 @@ For security reasons, unless you use a CDN, please don't use a custom domain nam
     ],
     "websocket": {
         "enabled": true,
-        "path": "/24b4b1e1-7a89-45f6-858c-242cf53b5bdb-trojan",
+        "path": "/24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vless",
         "host": "xxx.herokuapp.com"
     }
 }
